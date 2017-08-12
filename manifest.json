@@ -1,6 +1,6 @@
 
 {
-    "manifest_version": 3,
+    "manifest_version": 2,
 
     "name": "iyz",
     "description": "reminds you to rest your eyes every twenty minutes of screen time",
